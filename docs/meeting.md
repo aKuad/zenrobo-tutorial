@@ -38,7 +38,7 @@
 
 相手の名前や所属高専を把握しながら会話を進めるために、座っている並びにあわせて相手の名刺を手元に置いておくと良いでしょう。
 
-![分割会議 名刺](./meeting_media/division_meeting.webp ":size=500")
+![分割会議 名刺](./meeting_media/division-meeting.webp ":size=500")
 
 ## 宿泊部屋 鍵配布
 
