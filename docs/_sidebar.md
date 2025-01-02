@@ -2,3 +2,4 @@
 - [準備編](/prepare)
 - [当日編](/meeting)
 - [終了後編](/after)
+- [Tips 集](/tips)
