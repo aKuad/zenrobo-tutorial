@@ -6,7 +6,7 @@
 
 全ロボこと全国ロボコン交流会の参加経験者から、参加におけるヒントを共有したいと思い、サイトを立ち上げました。
 
-docsify を用いて、markdown で記述された文書を静的 Web ページとして配信しています。サーバは GitHub Pages を利用しています。
+[docsify](https://docsify.js.org/) を用いて、markdown で記述された文書を静的 Web ページとして配信しています。サーバは [GitHub Pages](https://pages.github.com/) を利用しています。
 
 <https://akuad.github.io/zenrobo-tutorial>
 
@@ -29,6 +29,6 @@ npx docsify-cli serve docs
 
 ## ライセンス
 
-気軽に使ってもらうために、本サイトのコンテンツは CC0 ライセンスで公開しています。
+気軽に使ってもらうために、本サイトのコンテンツは [CC0](./LICENSE) ライセンスで公開しています。
 
 断りなく、自由に改変や再配布が可能です。著者の表記も必要ありません。
